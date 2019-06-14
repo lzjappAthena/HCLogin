@@ -14,5 +14,8 @@
 
 - (void)needToLoginWithToken:(NSString *)token;
 
+//V0.1.1
+- (void)dealResultToLoginWithToken:(NSString *)token;
+
 @end
 

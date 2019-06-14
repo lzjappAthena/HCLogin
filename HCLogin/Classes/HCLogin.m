@@ -17,4 +17,11 @@
     [net getNetWoringWithMsg:@"HCLogin组件使用"];
 }
 
+- (void)dealResultToLoginWithToken:(NSString *)token {
+    NSLog(@"Token:%@",token);
+    HCNetWorking *net = [[HCNetWorking alloc] init];
+    [net getNetWoringWithMsg:@"HCLogin组件使用"];
+    [net postNetWoringWithMsg:@"HCLogin组件使用V0.1.1"];
+}
+
 @end
