@@ -3,8 +3,10 @@ use_frameworks!
 platform :ios, '8.0'
 
 target 'HCLogin_Example' do
-  pod 'HCLogin', :path => '../'
-  pod 'HCNetWorking', :path => '../../HCNetWorking'
+#  pod 'HCLogin', :path => '../'
+#  pod 'HCNetWorking', :path => '../../HCNetWorking'
+  pod 'HCLogin', '~> 0.1.1'
+  pod 'HCNetWorking', '~> 0.1.1'
 
   target 'HCLogin_Tests' do
     inherit! :search_paths

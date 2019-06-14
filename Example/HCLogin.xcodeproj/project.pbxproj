@@ -207,7 +207,7 @@
 				6003F586195388D20070C39A /* Sources */,
 				6003F587195388D20070C39A /* Frameworks */,
 				6003F588195388D20070C39A /* Resources */,
-				747A28F60EF2A8F0C034DF93 /* [CP] Embed Pods Frameworks */,
+				AB026CC25AF50F72B5B25D02 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -331,7 +331,7 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-HCLogin_Tests/Pods-HCLogin_Tests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		747A28F60EF2A8F0C034DF93 /* [CP] Embed Pods Frameworks */ = {
+		AB026CC25AF50F72B5B25D02 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (

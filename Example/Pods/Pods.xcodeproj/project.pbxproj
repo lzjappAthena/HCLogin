@@ -7,43 +7,43 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		051A816D6DD0CAE13496DDCFE0829167 /* UIImage+Diff.h in Headers */ = {isa = PBXBuildFile; fileRef = 85E250EF19C5B5671AEC10BEB508D087 /* UIImage+Diff.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		094973D2D2F1E3B2E772F93C8147C6B9 /* UIApplication+StrictKeyWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EECE81A9AEC1ED1057A9C3C88DBCEBE /* UIApplication+StrictKeyWindow.m */; };
-		0AB542936276E1A41A920592A7DE2D56 /* HCLogin.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DFF4A83F58A18B4F8D1A6B90E2123F6 /* HCLogin.m */; };
-		0E07304D2C299C0B7F26EB1B625628C4 /* HCLogin.h in Headers */ = {isa = PBXBuildFile; fileRef = AF2B642628FF2068E3D5D25ECAB6077D /* HCLogin.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		051A816D6DD0CAE13496DDCFE0829167 /* UIImage+Diff.h in Headers */ = {isa = PBXBuildFile; fileRef = FD753F204F7B8CA8B0FD2569DDB9CFB4 /* UIImage+Diff.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		094973D2D2F1E3B2E772F93C8147C6B9 /* UIApplication+StrictKeyWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = A25664CC88804ACA4F580A5FD87E75E6 /* UIApplication+StrictKeyWindow.m */; };
+		0AB542936276E1A41A920592A7DE2D56 /* HCLogin.m in Sources */ = {isa = PBXBuildFile; fileRef = 984BFE8E8F5D78422F744AAA367DEEDC /* HCLogin.m */; };
+		0E07304D2C299C0B7F26EB1B625628C4 /* HCLogin.h in Headers */ = {isa = PBXBuildFile; fileRef = 1E99ADEC53A3885FF1E42BB16DA27DBC /* HCLogin.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1551B54F431BC913E85EF8DA7F380CA6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AC228D1D7579CEE4B631B1560FA0FA4F /* Foundation.framework */; };
 		18996CA2F9C7C4BA33D25CB1BD77F744 /* Pods-HCLogin_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 04D12025D2E26382B478A58C1C80113E /* Pods-HCLogin_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		18EA4E0D8B74F2B2BBF8F39B49F49BF9 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6B341F1931E06A550EAD37F9CDAC7AEC /* XCTest.framework */; };
-		1AB7934C16CE49DE196FFC7BE7278287 /* SwiftSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97545C39C4A5EE2631DD9FFECE76A40 /* SwiftSupport.swift */; };
-		24000E70E9CD60529ABCC47F60875EBA /* HCNetWorking.h in Headers */ = {isa = PBXBuildFile; fileRef = 8D717769C577CC9818FBE328C3A290DE /* HCNetWorking.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1AB7934C16CE49DE196FFC7BE7278287 /* SwiftSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69DEACDCA44AC7CCB43BC3A6448667ED /* SwiftSupport.swift */; };
+		24000E70E9CD60529ABCC47F60875EBA /* HCNetWorking.h in Headers */ = {isa = PBXBuildFile; fileRef = 55E4E30D064DCCA31449FF6D0A57F77D /* HCNetWorking.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		270322DCFE8DAD577B16E5F3EE67037D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AC228D1D7579CEE4B631B1560FA0FA4F /* Foundation.framework */; };
-		2F485B69F51E4F723A38410F31F08550 /* FBSnapshotTestController.h in Headers */ = {isa = PBXBuildFile; fileRef = 1374B79237CAC07693E99442FBED1F15 /* FBSnapshotTestController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2F485B69F51E4F723A38410F31F08550 /* FBSnapshotTestController.h in Headers */ = {isa = PBXBuildFile; fileRef = 995A645FAB1B81DCC0025C76EC9C3B64 /* FBSnapshotTestController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2FE52E39B9E07B348EF1B6C24E707685 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AC228D1D7579CEE4B631B1560FA0FA4F /* Foundation.framework */; };
-		35DD05FD595A6FE7F5A0692D12E319DC /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = B9CEF7D6C5E08AB80E58DABC75D882BC /* UIImage+Diff.m */; };
-		401C7E24782302C1606B1A49DB9B2ADE /* HCNetWorking-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EFA9EB48FFB802C9717514EC903C7A55 /* HCNetWorking-dummy.m */; };
-		421CDD701AEE0F2458A84200366CDD0F /* UIImage+Snapshot.h in Headers */ = {isa = PBXBuildFile; fileRef = 0B161931541BFE46DFEA2092EDDDA815 /* UIImage+Snapshot.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		35DD05FD595A6FE7F5A0692D12E319DC /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = A8677C0C753B622B631CBC373BEBCB6F /* UIImage+Diff.m */; };
+		401C7E24782302C1606B1A49DB9B2ADE /* HCNetWorking-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A3D8430F5C4A5BDC838906EEC1DFD72 /* HCNetWorking-dummy.m */; };
+		421CDD701AEE0F2458A84200366CDD0F /* UIImage+Snapshot.h in Headers */ = {isa = PBXBuildFile; fileRef = 0555E37C11AD975F402CEFEFAD440326 /* UIImage+Snapshot.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		47DEE95708BDBD11436162D166CD192E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 42F84CDED8FDB9644AD5462E1E608C3D /* UIKit.framework */; };
 		49778D066909022AF77495287D176EA2 /* Pods-HCLogin_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1EA4AB33F2DD78835F9D8FF133049E0D /* Pods-HCLogin_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		506D761F91EC3583789A837C559972FE /* FBSnapshotTestCase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4792533D7EE0F440EE722DA4999E845C /* FBSnapshotTestCase-dummy.m */; };
+		506D761F91EC3583789A837C559972FE /* FBSnapshotTestCase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8670B0141AE843C4A0114217C48BD722 /* FBSnapshotTestCase-dummy.m */; };
 		5BC12F69E33ABA27B9E0B78128CE336D /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CA2D2E27DFF143B238BF99723C3E854 /* QuartzCore.framework */; };
 		698F2F172B78D9EEA99E31EB97774589 /* Pods-HCLogin_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B046D6FCDA5C820FBB53464DAB96003 /* Pods-HCLogin_Example-dummy.m */; };
-		69DA8B003216466C60F029CBD79897F1 /* UIImage+Compare.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B5E22F9517F21D3A0251F88FCAB281E /* UIImage+Compare.m */; };
-		756564ABAF2892FE7140C92A1CDDCF65 /* UIImage+Snapshot.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DBFBDCC891B770A2AC9EF0FB164B751 /* UIImage+Snapshot.m */; };
-		7CC647CA367BF79DFDBC9999F24E732E /* HCNetWorking-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6E1290A95631A221CE3BFF01939892B5 /* HCNetWorking-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		69DA8B003216466C60F029CBD79897F1 /* UIImage+Compare.m in Sources */ = {isa = PBXBuildFile; fileRef = 66A94E927249E4CA156528F39FC8670E /* UIImage+Compare.m */; };
+		756564ABAF2892FE7140C92A1CDDCF65 /* UIImage+Snapshot.m in Sources */ = {isa = PBXBuildFile; fileRef = 15E074352D440462C3BC9CAE6B048940 /* UIImage+Snapshot.m */; };
+		7CC647CA367BF79DFDBC9999F24E732E /* HCNetWorking-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9312678636197390EB6791E0F2BE1815 /* HCNetWorking-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		89B5E9259721A50584875387E76FA238 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AC228D1D7579CEE4B631B1560FA0FA4F /* Foundation.framework */; };
-		8D5311875AE2CA18977A0D92E9787F72 /* HCLogin-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F60AF2A917260B84B555BD98A79C7D1 /* HCLogin-dummy.m */; };
-		9673CF780F48C8E4EC2A331717B1F67C /* FBSnapshotTestCase.h in Headers */ = {isa = PBXBuildFile; fileRef = E37899BD4B349060AA147E2A3721D3A2 /* FBSnapshotTestCase.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A4F69F3477A935285620AC3031C5C848 /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 052258A488A96C35531FAC73C4F42924 /* FBSnapshotTestController.m */; };
-		B758FB09FE2C06C1B8E36A71A9D76D41 /* FBSnapshotTestCase-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A11D5B54955E3381F067364E427B571A /* FBSnapshotTestCase-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		BC952FC04FC963C1294DCD619C9B6B3B /* UIApplication+StrictKeyWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = B9109B8B333B5A1A3E92EFC09EDC10AC /* UIApplication+StrictKeyWindow.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		BE14F2198CDB0DAD98A567981D21C7A1 /* FBSnapshotTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 39577E2B806B8B2D019998DE60728F63 /* FBSnapshotTestCase.m */; };
-		BFCE460CC33E8872B7156D4166340178 /* FBSnapshotTestCasePlatform.h in Headers */ = {isa = PBXBuildFile; fileRef = 7E3DB4D092B985E76E227F7F313C6981 /* FBSnapshotTestCasePlatform.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CAB1826840CAB47068C6C8EF50EAFD42 /* HCLogin-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C59F576E44959A5F4922B3238E6F06F4 /* HCLogin-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CAFA5E486BCE117A7D8C0FBF9DA6666B /* UIImage+Compare.h in Headers */ = {isa = PBXBuildFile; fileRef = 432938111B6FF0189EFFEDF2F845B308 /* UIImage+Compare.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		8D5311875AE2CA18977A0D92E9787F72 /* HCLogin-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E44737F6CAE6ECC62C3E89827504FE0 /* HCLogin-dummy.m */; };
+		9673CF780F48C8E4EC2A331717B1F67C /* FBSnapshotTestCase.h in Headers */ = {isa = PBXBuildFile; fileRef = 04ADFD65CF0380D8BF2A20267EC6AA0D /* FBSnapshotTestCase.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A4F69F3477A935285620AC3031C5C848 /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 08F3A765939C0F0C23C0D9F90C37EDCD /* FBSnapshotTestController.m */; };
+		B758FB09FE2C06C1B8E36A71A9D76D41 /* FBSnapshotTestCase-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 00E3E5767CE21813BB87BEB780A9D444 /* FBSnapshotTestCase-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BC952FC04FC963C1294DCD619C9B6B3B /* UIApplication+StrictKeyWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = B438640A82F7AC2D573E708E57096457 /* UIApplication+StrictKeyWindow.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		BE14F2198CDB0DAD98A567981D21C7A1 /* FBSnapshotTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 8253E6F411076B2E1DF6B2F3D5F2FE38 /* FBSnapshotTestCase.m */; };
+		BFCE460CC33E8872B7156D4166340178 /* FBSnapshotTestCasePlatform.h in Headers */ = {isa = PBXBuildFile; fileRef = 9E2A7FBA75D37C36990ED2E249A681C2 /* FBSnapshotTestCasePlatform.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CAB1826840CAB47068C6C8EF50EAFD42 /* HCLogin-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9A33F690A5FC0DC2A46B357A2CFD2E34 /* HCLogin-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CAFA5E486BCE117A7D8C0FBF9DA6666B /* UIImage+Compare.h in Headers */ = {isa = PBXBuildFile; fileRef = B339CA4FBFE67481D8EECC3DDF632D18 /* UIImage+Compare.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		D3D9224BD49FAE337A1BD60FEA9BCF5C /* HCNetWorking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D2DADA8A9F20BD9E821058D7C8C1B3AC /* HCNetWorking.framework */; };
 		DAD9A0E0F40D3984B78A22F8D3CDAB45 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AC228D1D7579CEE4B631B1560FA0FA4F /* Foundation.framework */; };
-		DB7A106243AC974FC7EBEB00B506C786 /* FBSnapshotTestCasePlatform.m in Sources */ = {isa = PBXBuildFile; fileRef = 58A2557E7CE20AACCD1B28B1CD1F920D /* FBSnapshotTestCasePlatform.m */; };
-		DE341B2F60732024D57F3CC99AB99B2C /* HCNetWorking.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DBFC200B640170EBC10CBEACDA74FF4 /* HCNetWorking.m */; };
+		DB7A106243AC974FC7EBEB00B506C786 /* FBSnapshotTestCasePlatform.m in Sources */ = {isa = PBXBuildFile; fileRef = 542654BB9002B96AC69C5E1EB6814A40 /* FBSnapshotTestCasePlatform.m */; };
+		DE341B2F60732024D57F3CC99AB99B2C /* HCNetWorking.m in Sources */ = {isa = PBXBuildFile; fileRef = F3F10DB3FB85BF8506FE073CA73E47CF /* HCNetWorking.m */; };
 		E4018058964ED9C5D328462731B1B912 /* Pods-HCLogin_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B0768D3FCD7853740897B4A10C859C67 /* Pods-HCLogin_Tests-dummy.m */; };
 /* End PBXBuildFile section */
 
@@ -86,80 +86,74 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		00E3E5767CE21813BB87BEB780A9D444 /* FBSnapshotTestCase-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-umbrella.h"; sourceTree = "<group>"; };
+		025D4F1770267710287A5FDE4E8F7454 /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
+		04ADFD65CF0380D8BF2A20267EC6AA0D /* FBSnapshotTestCase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCase.h; path = FBSnapshotTestCase/FBSnapshotTestCase.h; sourceTree = "<group>"; };
 		04D12025D2E26382B478A58C1C80113E /* Pods-HCLogin_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HCLogin_Example-umbrella.h"; sourceTree = "<group>"; };
-		052258A488A96C35531FAC73C4F42924 /* FBSnapshotTestController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestController.m; path = FBSnapshotTestCase/FBSnapshotTestController.m; sourceTree = "<group>"; };
-		088ADE8391E34CC7CCC61B85251C2A1D /* HCNetWorking.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = HCNetWorking.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		091E65324600AE334AD18697B694FCBA /* HCNetWorking.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HCNetWorking.xcconfig; sourceTree = "<group>"; };
-		0B161931541BFE46DFEA2092EDDDA815 /* UIImage+Snapshot.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Snapshot.h"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.h"; sourceTree = "<group>"; };
-		0C4AA1ACF091EB46F333B27FE3CF8D07 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		0555E37C11AD975F402CEFEFAD440326 /* UIImage+Snapshot.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Snapshot.h"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.h"; sourceTree = "<group>"; };
+		08F3A765939C0F0C23C0D9F90C37EDCD /* FBSnapshotTestController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestController.m; path = FBSnapshotTestCase/FBSnapshotTestController.m; sourceTree = "<group>"; };
+		0A3D8430F5C4A5BDC838906EEC1DFD72 /* HCNetWorking-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "HCNetWorking-dummy.m"; sourceTree = "<group>"; };
 		12E1254384C207F8A290B7F655515E74 /* Pods-HCLogin_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HCLogin_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		1374B79237CAC07693E99442FBED1F15 /* FBSnapshotTestController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestController.h; path = FBSnapshotTestCase/FBSnapshotTestController.h; sourceTree = "<group>"; };
+		15E074352D440462C3BC9CAE6B048940 /* UIImage+Snapshot.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Snapshot.m"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.m"; sourceTree = "<group>"; };
 		1B7BECB10BA56152766875384E5365C7 /* Pods-HCLogin_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-HCLogin_Example.modulemap"; sourceTree = "<group>"; };
 		1CA2D2E27DFF143B238BF99723C3E854 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
+		1E99ADEC53A3885FF1E42BB16DA27DBC /* HCLogin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HCLogin.h; path = HCLogin/Classes/HCLogin.h; sourceTree = "<group>"; };
 		1EA4AB33F2DD78835F9D8FF133049E0D /* Pods-HCLogin_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HCLogin_Tests-umbrella.h"; sourceTree = "<group>"; };
-		268159F042FA54E2331F4451D51997F8 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2C9662BE789DEC736F47368F8B19A78F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		2DBFC200B640170EBC10CBEACDA74FF4 /* HCNetWorking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = HCNetWorking.m; path = HCNetWorking/Classes/HCNetWorking.m; sourceTree = "<group>"; };
-		2EECE81A9AEC1ED1057A9C3C88DBCEBE /* UIApplication+StrictKeyWindow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIApplication+StrictKeyWindow.m"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.m"; sourceTree = "<group>"; };
-		30210AFA1544D3D1A877C0EA7B8F91BD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		39577E2B806B8B2D019998DE60728F63 /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
-		3B5E22F9517F21D3A0251F88FCAB281E /* UIImage+Compare.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Compare.m"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.m"; sourceTree = "<group>"; };
-		3B9B4F0FF6007F98B07DFE09B92CE8D7 /* HCNetWorking-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HCNetWorking-prefix.pch"; sourceTree = "<group>"; };
-		3DBFBDCC891B770A2AC9EF0FB164B751 /* UIImage+Snapshot.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Snapshot.m"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.m"; sourceTree = "<group>"; };
+		268159F042FA54E2331F4451D51997F8 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FBSnapshotTestCase.framework; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		34F0DC756E417BC91C648899C9B29A70 /* HCLogin.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = HCLogin.modulemap; sourceTree = "<group>"; };
+		34FF3134DCB87F5E3016CD9E33EEA934 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		42F84CDED8FDB9644AD5462E1E608C3D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		432938111B6FF0189EFFEDF2F845B308 /* UIImage+Compare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Compare.h"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.h"; sourceTree = "<group>"; };
-		4792533D7EE0F440EE722DA4999E845C /* FBSnapshotTestCase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FBSnapshotTestCase-dummy.m"; sourceTree = "<group>"; };
-		496AFA046D0C480BA1B994ABAD12CB53 /* HCLogin.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HCLogin.xcconfig; sourceTree = "<group>"; };
+		49ECEDE95C8D11B8C66DD33CCDB5274B /* HCLogin.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HCLogin.xcconfig; sourceTree = "<group>"; };
+		4A7209673FB3350A7DA5F1FFD08FA4A0 /* FBSnapshotTestCase.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = FBSnapshotTestCase.modulemap; sourceTree = "<group>"; };
 		4B046D6FCDA5C820FBB53464DAB96003 /* Pods-HCLogin_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HCLogin_Example-dummy.m"; sourceTree = "<group>"; };
 		4B1F54B014DFABE297092365A6F01184 /* Pods-HCLogin_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-HCLogin_Tests.modulemap"; sourceTree = "<group>"; };
+		4C04D1E47210332BA99795C6CDF72272 /* HCNetWorking.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = HCNetWorking.modulemap; sourceTree = "<group>"; };
 		501BB97A016E600171B736B2976C1377 /* Pods-HCLogin_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HCLogin_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		540ECEBA0BFBCFAA87E478E7EE771E09 /* Pods-HCLogin_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HCLogin_Example-resources.sh"; sourceTree = "<group>"; };
+		542654BB9002B96AC69C5E1EB6814A40 /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
+		55E4E30D064DCCA31449FF6D0A57F77D /* HCNetWorking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HCNetWorking.h; path = HCNetWorking/Classes/HCNetWorking.h; sourceTree = "<group>"; };
 		57440A91ADBD936D71B4B2E7594D3BCA /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		58A2557E7CE20AACCD1B28B1CD1F920D /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
-		6300D231F6CE18685B7FCE1DE3A30F8E /* HCNetWorking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HCNetWorking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		67E276593855381568F725E69496F29C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5E44737F6CAE6ECC62C3E89827504FE0 /* HCLogin-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "HCLogin-dummy.m"; sourceTree = "<group>"; };
+		6300D231F6CE18685B7FCE1DE3A30F8E /* HCNetWorking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = HCNetWorking.framework; path = HCNetWorking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		66A94E927249E4CA156528F39FC8670E /* UIImage+Compare.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Compare.m"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.m"; sourceTree = "<group>"; };
+		69DEACDCA44AC7CCB43BC3A6448667ED /* SwiftSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSupport.swift; path = FBSnapshotTestCase/SwiftSupport.swift; sourceTree = "<group>"; };
 		6B341F1931E06A550EAD37F9CDAC7AEC /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		6E1290A95631A221CE3BFF01939892B5 /* HCNetWorking-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HCNetWorking-umbrella.h"; sourceTree = "<group>"; };
 		6F0350FC39FDB0032295EEDC7B1425FF /* Pods-HCLogin_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HCLogin_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		70AD6874EAA7F463532F7F389174B1AF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		7B37D7C695D5C6C47A7C093595CD4F06 /* FBSnapshotTestCase.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.xcconfig; sourceTree = "<group>"; };
+		7706A4F6C12FF78B4400C13480A74770 /* HCNetWorking-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HCNetWorking-prefix.pch"; sourceTree = "<group>"; };
 		7B531D0E217DA68148D39E7FF0CE335D /* Pods-HCLogin_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HCLogin_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		7E3DB4D092B985E76E227F7F313C6981 /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
-		7F60AF2A917260B84B555BD98A79C7D1 /* HCLogin-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "HCLogin-dummy.m"; sourceTree = "<group>"; };
+		8253E6F411076B2E1DF6B2F3D5F2FE38 /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
 		838953A9127C2686212D0BD7F5669372 /* Pods-HCLogin_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HCLogin_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		85E250EF19C5B5671AEC10BEB508D087 /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
-		8BE9B788B95EEB6EE3B71449224EBCE6 /* Pods_HCLogin_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HCLogin_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		8D485EE5E8AD1D9D3894A2011757312C /* HCLogin-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HCLogin-prefix.pch"; sourceTree = "<group>"; };
-		8D717769C577CC9818FBE328C3A290DE /* HCNetWorking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HCNetWorking.h; path = HCNetWorking/Classes/HCNetWorking.h; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		8670B0141AE843C4A0114217C48BD722 /* FBSnapshotTestCase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FBSnapshotTestCase-dummy.m"; sourceTree = "<group>"; };
+		89DD9921CFA25D875DB2648E9CF0EA88 /* HCLogin-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HCLogin-prefix.pch"; sourceTree = "<group>"; };
+		8BE9B788B95EEB6EE3B71449224EBCE6 /* Pods_HCLogin_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_HCLogin_Tests.framework; path = "Pods-HCLogin_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9312678636197390EB6791E0F2BE1815 /* HCNetWorking-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HCNetWorking-umbrella.h"; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		984BFE8E8F5D78422F744AAA367DEEDC /* HCLogin.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = HCLogin.m; path = HCLogin/Classes/HCLogin.m; sourceTree = "<group>"; };
 		99051D0E193290AB9E6B0EA3B1718DA2 /* Pods-HCLogin_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HCLogin_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		995A645FAB1B81DCC0025C76EC9C3B64 /* FBSnapshotTestController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestController.h; path = FBSnapshotTestCase/FBSnapshotTestController.h; sourceTree = "<group>"; };
+		9A33F690A5FC0DC2A46B357A2CFD2E34 /* HCLogin-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HCLogin-umbrella.h"; sourceTree = "<group>"; };
 		9B3A1ED4262E9C131226D8D10C738454 /* Pods-HCLogin_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HCLogin_Example-frameworks.sh"; sourceTree = "<group>"; };
 		9B86D02FFC7D7B34F598297E086122D9 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9DFF4A83F58A18B4F8D1A6B90E2123F6 /* HCLogin.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = HCLogin.m; path = HCLogin/Classes/HCLogin.m; sourceTree = "<group>"; };
-		A11D5B54955E3381F067364E427B571A /* FBSnapshotTestCase-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-umbrella.h"; sourceTree = "<group>"; };
-		A312C5E17F9E60FB66E46229276426CD /* HCLogin.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = HCLogin.podspec; sourceTree = "<group>"; };
+		9E2A7FBA75D37C36990ED2E249A681C2 /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
+		A25664CC88804ACA4F580A5FD87E75E6 /* UIApplication+StrictKeyWindow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIApplication+StrictKeyWindow.m"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.m"; sourceTree = "<group>"; };
+		A8677C0C753B622B631CBC373BEBCB6F /* UIImage+Diff.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Diff.m"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.m"; sourceTree = "<group>"; };
 		AC228D1D7579CEE4B631B1560FA0FA4F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		AF2B642628FF2068E3D5D25ECAB6077D /* HCLogin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HCLogin.h; path = HCLogin/Classes/HCLogin.h; sourceTree = "<group>"; };
 		B0768D3FCD7853740897B4A10C859C67 /* Pods-HCLogin_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HCLogin_Tests-dummy.m"; sourceTree = "<group>"; };
-		B3F5B6F8F52B2DE8AFC3C35C336997CD /* HCLogin.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = HCLogin.modulemap; sourceTree = "<group>"; };
-		B9109B8B333B5A1A3E92EFC09EDC10AC /* UIApplication+StrictKeyWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIApplication+StrictKeyWindow.h"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h"; sourceTree = "<group>"; };
-		B9CEF7D6C5E08AB80E58DABC75D882BC /* UIImage+Diff.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Diff.m"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.m"; sourceTree = "<group>"; };
-		BB4FD2619A34E495B61726F1686EC3BF /* HCLogin.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HCLogin.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B339CA4FBFE67481D8EECC3DDF632D18 /* UIImage+Compare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Compare.h"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.h"; sourceTree = "<group>"; };
+		B438640A82F7AC2D573E708E57096457 /* UIApplication+StrictKeyWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIApplication+StrictKeyWindow.h"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h"; sourceTree = "<group>"; };
+		BB4FD2619A34E495B61726F1686EC3BF /* HCLogin.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = HCLogin.framework; path = HCLogin.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB6281E233C55C8F53CBDBAC6E5B063C /* Pods-HCLogin_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HCLogin_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		BE77EC1A2DDB408A828199AEDB068887 /* Pods-HCLogin_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HCLogin_Example.release.xcconfig"; sourceTree = "<group>"; };
-		C59F576E44959A5F4922B3238E6F06F4 /* HCLogin-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HCLogin-umbrella.h"; sourceTree = "<group>"; };
-		CECDA8C7956FDE14CBCC00BA88B235DC /* Pods_HCLogin_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HCLogin_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BEF033CC65F34EF73B85B79ED9763516 /* FBSnapshotTestCase.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.xcconfig; sourceTree = "<group>"; };
+		CC2E323BAB0480C198EFADC2DD17DFAD /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CECDA8C7956FDE14CBCC00BA88B235DC /* Pods_HCLogin_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_HCLogin_Example.framework; path = "Pods-HCLogin_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D00DFF244D7E67314793A394A3FD6456 /* Pods-HCLogin_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HCLogin_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		D2DADA8A9F20BD9E821058D7C8C1B3AC /* HCNetWorking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HCNetWorking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D97545C39C4A5EE2631DD9FFECE76A40 /* SwiftSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSupport.swift; path = FBSnapshotTestCase/SwiftSupport.swift; sourceTree = "<group>"; };
+		D331DA4D66325360FBA3CCA5AA7D772D /* HCNetWorking.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HCNetWorking.xcconfig; sourceTree = "<group>"; };
 		DC37266B106FF79CBB1C0A5932DFA3C6 /* Pods-HCLogin_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HCLogin_Tests-resources.sh"; sourceTree = "<group>"; };
-		E37899BD4B349060AA147E2A3721D3A2 /* FBSnapshotTestCase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCase.h; path = FBSnapshotTestCase/FBSnapshotTestCase.h; sourceTree = "<group>"; };
-		EF519A026B10AC73ABBE6E658308B29D /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
-		EFA9EB48FFB802C9717514EC903C7A55 /* HCNetWorking-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "HCNetWorking-dummy.m"; sourceTree = "<group>"; };
-		F067CA89BB62D0E62AC754A2C756CE21 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F10CBDEE32E5F6BDECFB3D41F7DD0B03 /* FBSnapshotTestCase.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = FBSnapshotTestCase.modulemap; sourceTree = "<group>"; };
-		F263157D68FD5F35ED86EFD557539D88 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F2FC90F6059E5884E43B89BFF9EBD8AE /* HCNetWorking.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = HCNetWorking.modulemap; sourceTree = "<group>"; };
+		E2FDB8D73F84C7E69D62FD1F44CBB9EC /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F3F10DB3FB85BF8506FE073CA73E47CF /* HCNetWorking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = HCNetWorking.m; path = HCNetWorking/Classes/HCNetWorking.m; sourceTree = "<group>"; };
+		FD753F204F7B8CA8B0FD2569DDB9CFB4 /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -210,37 +204,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2287B5EBEAA3C332F8DB9A1E61F5B097 /* FBSnapshotTestCase */ = {
+		311630B1E761D62AEDAECB765B7138C3 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				F35791481CAFDD8E7715AE1B44687328 /* Core */,
-				3288FCB8E15F6401DE6220AE5CA1D27B /* Support Files */,
-				99E46DD4AB2256791F111C718CB0EEF8 /* SwiftSupport */,
-			);
-			path = FBSnapshotTestCase;
-			sourceTree = "<group>";
-		};
-		3288FCB8E15F6401DE6220AE5CA1D27B /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				F10CBDEE32E5F6BDECFB3D41F7DD0B03 /* FBSnapshotTestCase.modulemap */,
-				7B37D7C695D5C6C47A7C093595CD4F06 /* FBSnapshotTestCase.xcconfig */,
-				4792533D7EE0F440EE722DA4999E845C /* FBSnapshotTestCase-dummy.m */,
-				EF519A026B10AC73ABBE6E658308B29D /* FBSnapshotTestCase-prefix.pch */,
-				A11D5B54955E3381F067364E427B571A /* FBSnapshotTestCase-umbrella.h */,
-				67E276593855381568F725E69496F29C /* Info.plist */,
+				4A7209673FB3350A7DA5F1FFD08FA4A0 /* FBSnapshotTestCase.modulemap */,
+				BEF033CC65F34EF73B85B79ED9763516 /* FBSnapshotTestCase.xcconfig */,
+				8670B0141AE843C4A0114217C48BD722 /* FBSnapshotTestCase-dummy.m */,
+				025D4F1770267710287A5FDE4E8F7454 /* FBSnapshotTestCase-prefix.pch */,
+				00E3E5767CE21813BB87BEB780A9D444 /* FBSnapshotTestCase-umbrella.h */,
+				34FF3134DCB87F5E3016CD9E33EEA934 /* Info.plist */,
 			);
 			name = "Support Files";
 			path = "../Target Support Files/FBSnapshotTestCase";
-			sourceTree = "<group>";
-		};
-		43751A1A43EDA5B878CC8A6FA1F8C519 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				E557C3829FF2AB24F8478809236B99DF /* HCLogin */,
-				E7288726A8AA715467D85D0A2E2658B3 /* HCNetWorking */,
-			);
-			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		494B81B8AEE8D9B18E54C491915C7C5C /* iOS */ = {
@@ -275,6 +250,34 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		5B3D0D633EE94EFCA6A25B14C8B416B9 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				34F0DC756E417BC91C648899C9B29A70 /* HCLogin.modulemap */,
+				49ECEDE95C8D11B8C66DD33CCDB5274B /* HCLogin.xcconfig */,
+				5E44737F6CAE6ECC62C3E89827504FE0 /* HCLogin-dummy.m */,
+				89DD9921CFA25D875DB2648E9CF0EA88 /* HCLogin-prefix.pch */,
+				9A33F690A5FC0DC2A46B357A2CFD2E34 /* HCLogin-umbrella.h */,
+				CC2E323BAB0480C198EFADC2DD17DFAD /* Info.plist */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/HCLogin";
+			sourceTree = "<group>";
+		};
+		5D54CF0FF21F9B62877A99527289EF98 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				4C04D1E47210332BA99795C6CDF72272 /* HCNetWorking.modulemap */,
+				D331DA4D66325360FBA3CCA5AA7D772D /* HCNetWorking.xcconfig */,
+				0A3D8430F5C4A5BDC838906EEC1DFD72 /* HCNetWorking-dummy.m */,
+				7706A4F6C12FF78B4400C13480A74770 /* HCNetWorking-prefix.pch */,
+				9312678636197390EB6791E0F2BE1815 /* HCNetWorking-umbrella.h */,
+				E2FDB8D73F84C7E69D62FD1F44CBB9EC /* Info.plist */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/HCNetWorking";
+			sourceTree = "<group>";
+		};
 		64431422B6B282BDF5FD3CB1C2730F01 /* Pods-HCLogin_Example */ = {
 			isa = PBXGroup;
 			children = (
@@ -302,117 +305,87 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
+		6DCFA0D41F319265B72CD0D58FEEBAE8 /* HCNetWorking */ = {
+			isa = PBXGroup;
+			children = (
+				55E4E30D064DCCA31449FF6D0A57F77D /* HCNetWorking.h */,
+				F3F10DB3FB85BF8506FE073CA73E47CF /* HCNetWorking.m */,
+				5D54CF0FF21F9B62877A99527289EF98 /* Support Files */,
+			);
+			name = HCNetWorking;
+			path = HCNetWorking;
+			sourceTree = "<group>";
+		};
+		724572D2AE6F57A63EE767F97BBE2C3B /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				EA8FA430206EADF571E04C06E34E1C1C /* FBSnapshotTestCase */,
+				73677A356417C61B0D74034D1464AEAC /* HCLogin */,
+				6DCFA0D41F319265B72CD0D58FEEBAE8 /* HCNetWorking */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		73677A356417C61B0D74034D1464AEAC /* HCLogin */ = {
+			isa = PBXGroup;
+			children = (
+				1E99ADEC53A3885FF1E42BB16DA27DBC /* HCLogin.h */,
+				984BFE8E8F5D78422F744AAA367DEEDC /* HCLogin.m */,
+				5B3D0D633EE94EFCA6A25B14C8B416B9 /* Support Files */,
+			);
+			name = HCLogin;
+			path = HCLogin;
+			sourceTree = "<group>";
+		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				43751A1A43EDA5B878CC8A6FA1F8C519 /* Development Pods */,
 				570B5A1E5917386B59D8002656E162B7 /* Frameworks */,
-				FBD2D672921284E66F309CA3462F84D6 /* Pods */,
+				724572D2AE6F57A63EE767F97BBE2C3B /* Pods */,
 				575FA909EA33B713125E84B9CDCF8B57 /* Products */,
 				65849A98EA73A4EF9D57455299E4FE29 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		8BBC9B80F061C14F3F03A473A72A33AE /* Pod */ = {
+		82BF35DCEA5095D62125AAEEB0963DD7 /* SwiftSupport */ = {
 			isa = PBXGroup;
 			children = (
-				088ADE8391E34CC7CCC61B85251C2A1D /* HCNetWorking.podspec */,
-				30210AFA1544D3D1A877C0EA7B8F91BD /* LICENSE */,
-				70AD6874EAA7F463532F7F389174B1AF /* README.md */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		99E46DD4AB2256791F111C718CB0EEF8 /* SwiftSupport */ = {
-			isa = PBXGroup;
-			children = (
-				D97545C39C4A5EE2631DD9FFECE76A40 /* SwiftSupport.swift */,
+				69DEACDCA44AC7CCB43BC3A6448667ED /* SwiftSupport.swift */,
 			);
 			name = SwiftSupport;
 			sourceTree = "<group>";
 		};
-		B6EB25076D0B548C86A3F774456BD78A /* Pod */ = {
+		C0BDE2120EDC28747B3964D83BE1E2E0 /* Core */ = {
 			isa = PBXGroup;
 			children = (
-				A312C5E17F9E60FB66E46229276426CD /* HCLogin.podspec */,
-				0C4AA1ACF091EB46F333B27FE3CF8D07 /* LICENSE */,
-				2C9662BE789DEC736F47368F8B19A78F /* README.md */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		CF6AC931FEDA93FAF41C3F4C4694448F /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				B3F5B6F8F52B2DE8AFC3C35C336997CD /* HCLogin.modulemap */,
-				496AFA046D0C480BA1B994ABAD12CB53 /* HCLogin.xcconfig */,
-				7F60AF2A917260B84B555BD98A79C7D1 /* HCLogin-dummy.m */,
-				8D485EE5E8AD1D9D3894A2011757312C /* HCLogin-prefix.pch */,
-				C59F576E44959A5F4922B3238E6F06F4 /* HCLogin-umbrella.h */,
-				F067CA89BB62D0E62AC754A2C756CE21 /* Info.plist */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/HCLogin";
-			sourceTree = "<group>";
-		};
-		D9B138A31E673EDBF842694CDE730687 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				F2FC90F6059E5884E43B89BFF9EBD8AE /* HCNetWorking.modulemap */,
-				091E65324600AE334AD18697B694FCBA /* HCNetWorking.xcconfig */,
-				EFA9EB48FFB802C9717514EC903C7A55 /* HCNetWorking-dummy.m */,
-				3B9B4F0FF6007F98B07DFE09B92CE8D7 /* HCNetWorking-prefix.pch */,
-				6E1290A95631A221CE3BFF01939892B5 /* HCNetWorking-umbrella.h */,
-				F263157D68FD5F35ED86EFD557539D88 /* Info.plist */,
-			);
-			name = "Support Files";
-			path = "../HCLogin/Example/Pods/Target Support Files/HCNetWorking";
-			sourceTree = "<group>";
-		};
-		E557C3829FF2AB24F8478809236B99DF /* HCLogin */ = {
-			isa = PBXGroup;
-			children = (
-				AF2B642628FF2068E3D5D25ECAB6077D /* HCLogin.h */,
-				9DFF4A83F58A18B4F8D1A6B90E2123F6 /* HCLogin.m */,
-				B6EB25076D0B548C86A3F774456BD78A /* Pod */,
-				CF6AC931FEDA93FAF41C3F4C4694448F /* Support Files */,
-			);
-			name = HCLogin;
-			path = ../..;
-			sourceTree = "<group>";
-		};
-		E7288726A8AA715467D85D0A2E2658B3 /* HCNetWorking */ = {
-			isa = PBXGroup;
-			children = (
-				8D717769C577CC9818FBE328C3A290DE /* HCNetWorking.h */,
-				2DBFC200B640170EBC10CBEACDA74FF4 /* HCNetWorking.m */,
-				8BBC9B80F061C14F3F03A473A72A33AE /* Pod */,
-				D9B138A31E673EDBF842694CDE730687 /* Support Files */,
-			);
-			name = HCNetWorking;
-			path = ../../../HCNetWorking;
-			sourceTree = "<group>";
-		};
-		F35791481CAFDD8E7715AE1B44687328 /* Core */ = {
-			isa = PBXGroup;
-			children = (
-				E37899BD4B349060AA147E2A3721D3A2 /* FBSnapshotTestCase.h */,
-				39577E2B806B8B2D019998DE60728F63 /* FBSnapshotTestCase.m */,
-				7E3DB4D092B985E76E227F7F313C6981 /* FBSnapshotTestCasePlatform.h */,
-				58A2557E7CE20AACCD1B28B1CD1F920D /* FBSnapshotTestCasePlatform.m */,
-				1374B79237CAC07693E99442FBED1F15 /* FBSnapshotTestController.h */,
-				052258A488A96C35531FAC73C4F42924 /* FBSnapshotTestController.m */,
-				B9109B8B333B5A1A3E92EFC09EDC10AC /* UIApplication+StrictKeyWindow.h */,
-				2EECE81A9AEC1ED1057A9C3C88DBCEBE /* UIApplication+StrictKeyWindow.m */,
-				432938111B6FF0189EFFEDF2F845B308 /* UIImage+Compare.h */,
-				3B5E22F9517F21D3A0251F88FCAB281E /* UIImage+Compare.m */,
-				85E250EF19C5B5671AEC10BEB508D087 /* UIImage+Diff.h */,
-				B9CEF7D6C5E08AB80E58DABC75D882BC /* UIImage+Diff.m */,
-				0B161931541BFE46DFEA2092EDDDA815 /* UIImage+Snapshot.h */,
-				3DBFBDCC891B770A2AC9EF0FB164B751 /* UIImage+Snapshot.m */,
+				04ADFD65CF0380D8BF2A20267EC6AA0D /* FBSnapshotTestCase.h */,
+				8253E6F411076B2E1DF6B2F3D5F2FE38 /* FBSnapshotTestCase.m */,
+				9E2A7FBA75D37C36990ED2E249A681C2 /* FBSnapshotTestCasePlatform.h */,
+				542654BB9002B96AC69C5E1EB6814A40 /* FBSnapshotTestCasePlatform.m */,
+				995A645FAB1B81DCC0025C76EC9C3B64 /* FBSnapshotTestController.h */,
+				08F3A765939C0F0C23C0D9F90C37EDCD /* FBSnapshotTestController.m */,
+				B438640A82F7AC2D573E708E57096457 /* UIApplication+StrictKeyWindow.h */,
+				A25664CC88804ACA4F580A5FD87E75E6 /* UIApplication+StrictKeyWindow.m */,
+				B339CA4FBFE67481D8EECC3DDF632D18 /* UIImage+Compare.h */,
+				66A94E927249E4CA156528F39FC8670E /* UIImage+Compare.m */,
+				FD753F204F7B8CA8B0FD2569DDB9CFB4 /* UIImage+Diff.h */,
+				A8677C0C753B622B631CBC373BEBCB6F /* UIImage+Diff.m */,
+				0555E37C11AD975F402CEFEFAD440326 /* UIImage+Snapshot.h */,
+				15E074352D440462C3BC9CAE6B048940 /* UIImage+Snapshot.m */,
 			);
 			name = Core;
+			sourceTree = "<group>";
+		};
+		EA8FA430206EADF571E04C06E34E1C1C /* FBSnapshotTestCase */ = {
+			isa = PBXGroup;
+			children = (
+				C0BDE2120EDC28747B3964D83BE1E2E0 /* Core */,
+				311630B1E761D62AEDAECB765B7138C3 /* Support Files */,
+				82BF35DCEA5095D62125AAEEB0963DD7 /* SwiftSupport */,
+			);
+			name = FBSnapshotTestCase;
+			path = FBSnapshotTestCase;
 			sourceTree = "<group>";
 		};
 		FBA06182612BD7C489BE0A2254E85162 /* Pods-HCLogin_Tests */ = {
@@ -431,14 +404,6 @@
 			);
 			name = "Pods-HCLogin_Tests";
 			path = "Target Support Files/Pods-HCLogin_Tests";
-			sourceTree = "<group>";
-		};
-		FBD2D672921284E66F309CA3462F84D6 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				2287B5EBEAA3C332F8DB9A1E61F5B097 /* FBSnapshotTestCase */,
-			);
-			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -837,7 +802,7 @@
 		};
 		350F642A86D3BE5A3009DB596F49EFDC /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 496AFA046D0C480BA1B994ABAD12CB53 /* HCLogin.xcconfig */;
+			baseConfigurationReference = 49ECEDE95C8D11B8C66DD33CCDB5274B /* HCLogin.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -867,7 +832,7 @@
 		};
 		81AEF403D7C135A9F54685ABA44569E0 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 496AFA046D0C480BA1B994ABAD12CB53 /* HCLogin.xcconfig */;
+			baseConfigurationReference = 49ECEDE95C8D11B8C66DD33CCDB5274B /* HCLogin.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -898,7 +863,7 @@
 		};
 		85A2BCA6E644502942A5671F03D38281 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 091E65324600AE334AD18697B694FCBA /* HCNetWorking.xcconfig */;
+			baseConfigurationReference = D331DA4D66325360FBA3CCA5AA7D772D /* HCNetWorking.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -928,7 +893,7 @@
 		};
 		95DE8E3E526218C59CEAEA04A66C6FDB /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 091E65324600AE334AD18697B694FCBA /* HCNetWorking.xcconfig */;
+			baseConfigurationReference = D331DA4D66325360FBA3CCA5AA7D772D /* HCNetWorking.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -959,7 +924,7 @@
 		};
 		A38749C15819B02B742737E489EE0EEB /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7B37D7C695D5C6C47A7C093595CD4F06 /* FBSnapshotTestCase.xcconfig */;
+			baseConfigurationReference = BEF033CC65F34EF73B85B79ED9763516 /* FBSnapshotTestCase.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -990,7 +955,7 @@
 		};
 		AB74B6A60AA3078D80BB7D633DFBCA01 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7B37D7C695D5C6C47A7C093595CD4F06 /* FBSnapshotTestCase.xcconfig */;
+			baseConfigurationReference = BEF033CC65F34EF73B85B79ED9763516 /* FBSnapshotTestCase.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
