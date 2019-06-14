@@ -1,0 +1,6 @@
+framework module HCLogin {
+  umbrella header "HCLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}

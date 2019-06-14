@@ -1,0 +1,6 @@
+framework module HCNetWorking {
+  umbrella header "HCNetWorking-umbrella.h"
+
+  export *
+  module * { export * }
+}

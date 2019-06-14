@@ -1,0 +1,33 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - HCLogin (0.1.0):
+    - HCNetWorking
+  - HCNetWorking (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - HCLogin (from `../`)
+  - HCNetWorking (from `../../HCNetWorking`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  HCLogin:
+    :path: "../"
+  HCNetWorking:
+    :path: "../../HCNetWorking"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  HCLogin: e5cc2285643fff112a4740f91a8a537e5df68f29
+  HCNetWorking: ee8741f91f429707714fa6ebad82007110ac4887
+
+PODFILE CHECKSUM: db5d591b053e4adc6785381da8a655b56debd2ca
+
+COCOAPODS: 1.5.2

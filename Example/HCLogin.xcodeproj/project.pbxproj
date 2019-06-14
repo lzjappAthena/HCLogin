@@ -339,10 +339,12 @@
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-HCLogin_Example/Pods-HCLogin_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/HCLogin/HCLogin.framework",
+				"${BUILT_PRODUCTS_DIR}/HCNetWorking/HCNetWorking.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/HCLogin.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/HCNetWorking.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
